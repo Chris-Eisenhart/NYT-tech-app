@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.NYTtechapp.NytTechAppApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-06-14T22:30:11" hostname="Chriss-MacBook-Pro.local" time="0.407">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.example.NYTtechapp.NytTechAppApplicationTests" time="0.407"/>
+  <system-out><![CDATA[17:30:11.352 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.example.NYTtechapp.NytTechAppApplicationTests]: NytTechAppApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+17:30:11.390 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.example.NYTtechapp.NytTechAppApplication for test class com.example.NYTtechapp.NytTechAppApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.1.0)
+
+2023-06-14T17:30:11.524-05:00  INFO 28756 --- [    Test worker] c.e.N.NytTechAppApplicationTests         : Starting NytTechAppApplicationTests using Java 17.0.5 with PID 28756 (started by ceisenhart in /Users/ceisenhart/Bioinformatics/temp/NYT-tech-app)
+2023-06-14T17:30:11.525-05:00  INFO 28756 --- [    Test worker] c.e.N.NytTechAppApplicationTests         : No active profile set, falling back to 1 default profile: "default"
+2023-06-14T17:30:11.977-05:00  INFO 28756 --- [    Test worker] c.e.N.NytTechAppApplicationTests         : Started NytTechAppApplicationTests in 0.538 seconds (process running for 0.94)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
